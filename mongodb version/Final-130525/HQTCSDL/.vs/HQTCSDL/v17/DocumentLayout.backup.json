@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|c:\\download\\baitap.exe\\chuy\u00EAn ngh\u00E0nh it\\qu\u1EA3n tr\u1ECB csdl\\final-130525\\hqtcsdl\\hqtcsdl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|solutionrelative:hqtcsdl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\hqtcsdl\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|solutionrelative:hqtcsdl\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\hqtcsdl\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|solutionrelative:hqtcsdl\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\hqtcsdl\\restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|solutionrelative:hqtcsdl\\restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\hqtcsdl\\restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|solutionrelative:hqtcsdl\\restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\hqtcsdl\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|solutionrelative:hqtcsdl\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\hqtcsdl\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|solutionrelative:hqtcsdl\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\hqtcsdl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|solutionrelative:hqtcsdl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\hqtcsdl\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|solutionrelative:hqtcsdl\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\hqtcsdl\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|solutionrelative:hqtcsdl\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\hqtcsdl\\filegroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|solutionrelative:hqtcsdl\\filegroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\hqtcsdl\\filegroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDDD0DD-B655-4A65-81CF-DD0B21A38001}|HQTCSDL\\HQTCSDL.csproj|solutionrelative:hqtcsdl\\filegroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 240,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Backup.cs [Design]",
+              "DocumentMoniker": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Backup.cs",
+              "RelativeDocumentMoniker": "HQTCSDL\\Backup.cs",
+              "ToolTip": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Backup.cs [Design]",
+              "RelativeToolTip": "HQTCSDL\\Backup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T00:01:53.085Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Security.cs [Design]",
+              "DocumentMoniker": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Security.cs",
+              "RelativeDocumentMoniker": "HQTCSDL\\Security.cs",
+              "ToolTip": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Security.cs [Design]",
+              "RelativeToolTip": "HQTCSDL\\Security.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:09:34.181Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Security.cs",
+              "DocumentMoniker": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Security.cs",
+              "RelativeDocumentMoniker": "HQTCSDL\\Security.cs",
+              "ToolTip": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Security.cs",
+              "RelativeToolTip": "HQTCSDL\\Security.cs",
+              "ViewState": "AgIAAF0BAAAAAAAAAADwv24BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:01:19.403Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Restore.cs",
+              "DocumentMoniker": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Restore.cs",
+              "RelativeDocumentMoniker": "HQTCSDL\\Restore.cs",
+              "ToolTip": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Restore.cs",
+              "RelativeToolTip": "HQTCSDL\\Restore.cs",
+              "ViewState": "AgIAABsCAAAAAAAAAAAcwCcCAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:28:12.72Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Login.cs",
+              "RelativeDocumentMoniker": "HQTCSDL\\Login.cs",
+              "ToolTip": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Login.cs [Design]",
+              "RelativeToolTip": "HQTCSDL\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:39:02.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Restore.cs [Design]",
+              "DocumentMoniker": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Restore.cs",
+              "RelativeDocumentMoniker": "HQTCSDL\\Restore.cs",
+              "ToolTip": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Restore.cs [Design]",
+              "RelativeToolTip": "HQTCSDL\\Restore.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:23:52.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Backup.cs",
+              "DocumentMoniker": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Backup.cs",
+              "RelativeDocumentMoniker": "HQTCSDL\\Backup.cs",
+              "ToolTip": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Backup.cs",
+              "RelativeToolTip": "HQTCSDL\\Backup.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAlwHkBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:40:34.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Login.cs",
+              "RelativeDocumentMoniker": "HQTCSDL\\Login.cs",
+              "ToolTip": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Login.cs",
+              "RelativeToolTip": "HQTCSDL\\Login.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T00:41:04.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Encrypt.cs [Design]",
+              "DocumentMoniker": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Encrypt.cs",
+              "RelativeDocumentMoniker": "HQTCSDL\\Encrypt.cs",
+              "ToolTip": "C:\\Users\\Jelly\\Downloads\\Compressed\\HQTCSDL\\HQTCSDL\\HQTCSDL\\HQTCSDL\\Encrypt.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\Jelly\\Downloads\\Compressed\\HQTCSDL\\HQTCSDL\\HQTCSDL\\HQTCSDL\\Encrypt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:15:54.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Encrypt.cs",
+              "DocumentMoniker": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Encrypt.cs",
+              "RelativeDocumentMoniker": "HQTCSDL\\Encrypt.cs",
+              "ToolTip": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Encrypt.cs",
+              "RelativeToolTip": "HQTCSDL\\Encrypt.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAwwDwBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:53:13.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Filegroups.cs [Design]",
+              "DocumentMoniker": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Filegroups.cs",
+              "RelativeDocumentMoniker": "HQTCSDL\\Filegroups.cs",
+              "ToolTip": "C:\\Users\\Jelly\\OneDrive\\Desktop\\HQTCSDL\\HQTCSDL\\HQTCSDL\\Filegroups.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\Jelly\\OneDrive\\Desktop\\HQTCSDL\\HQTCSDL\\HQTCSDL\\Filegroups.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:43:31.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Filegroups.cs",
+              "DocumentMoniker": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Filegroups.cs",
+              "RelativeDocumentMoniker": "HQTCSDL\\Filegroups.cs",
+              "ToolTip": "C:\\DownLoad\\BaiTap.exe\\Chuy\u00EAn Ngh\u00E0nh IT\\Qu\u1EA3n Tr\u1ECB CSDL\\Final-130525\\HQTCSDL\\HQTCSDL\\Filegroups.cs",
+              "RelativeToolTip": "HQTCSDL\\Filegroups.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwCQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:43:37.186Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 202,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

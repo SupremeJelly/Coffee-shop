@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\kyvy\\onedrive\\desktop\\desktop file\\\u00E1c m\u1ED9ng\\\u0111\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\form\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\kyvy\\onedrive\\desktop\\desktop file\\\u00E1c m\u1ED9ng\\\u0111\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\form\\adminmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\adminmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\kyvy\\onedrive\\desktop\\desktop file\\\u00E1c m\u1ED9ng\\\u0111\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\form\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|c:\\users\\kyvy\\onedrive\\desktop\\desktop file\\\u00E1c m\u1ED9ng\\\u0111\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\ch\u1EC9nh s\u1EEDa 22-11\\final\\cafekaticas\\form\\lichsunhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\lichsunhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\lichsunhaphangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\lichsunhaphangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\chitietnhaphangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\chitietnhaphangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\nhaphangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\nhaphangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\chitietnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\chitietnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\chitietnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\chitietnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\form\\admindathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\form\\admindathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\dathangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\dathangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\cafekaticas\\control\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443BBD9-E318-48CC-B576-3B2643DA6391}|CafeKaticas\\CafeKaticas.csproj|solutionrelative:cafekaticas\\control\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\Database.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\Database.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\Database.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\Database.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:07:20.504Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDatHang.cs",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminDatHang.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminDatHang.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminDatHang.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminDatHang.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAYwOUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:28:41.932Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatHangControl.cs",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\DatHangControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\DatHangControl.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\DatHangControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\DatHangControl.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:37.687Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LichSuNhapHangControl.cs",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\LichSuNhapHangControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\LichSuNhapHangControl.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\LichSuNhapHangControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\LichSuNhapHangControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:44.159Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LichSuNhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\LichSuNhapHang.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\LichSuNhapHang.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\LichSuNhapHang.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\LichSuNhapHang.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:48:13.17Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhapHang.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\NhapHang.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\NhapHang.cs",
+              "RelativeToolTip": "CafeKaticas\\Form\\NhapHang.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:01:38.85Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhapHangControl.cs",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\NhapHangControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\NhapHangControl.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\NhapHangControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\NhapHangControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:51.936Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashierMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\CashierMainForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\CashierMainForm.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\CashierMainForm.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\CashierMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:34:24.537Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminMenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminMenuForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminMenuForm.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminMenuForm.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:33:53.129Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Form\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Form\\AdminMainForm.cs [Design]",
+              "RelativeToolTip": "CafeKaticas\\Form\\AdminMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:33:49.037Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChiTietNhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\ChiTietNhapHang.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\ChiTietNhapHang.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\ChiTietNhapHang.cs",
+              "RelativeToolTip": "CafeKaticas\\ChiTietNhapHang.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:56:14.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChiTietNhapHangControl.cs",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\ChiTietNhapHangControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\ChiTietNhapHangControl.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\ChiTietNhapHangControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\ChiTietNhapHangControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:27.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChiTietNhapHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\ChiTietNhapHang.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\ChiTietNhapHang.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\ChiTietNhapHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\ChiTietNhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:56:13.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashBoardControl.cs",
+              "DocumentMoniker": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\DashBoardControl.cs",
+              "RelativeDocumentMoniker": "CafeKaticas\\Control\\DashBoardControl.cs",
+              "ToolTip": "C:\\Users\\KYVY\\OneDrive\\Desktop\\Desktop File\\\u00C1c m\u1ED9ng\\\u0110\u1EEBng \u0111\u1EE5ng g\u00EC n\u1EEFa nh\u00E9\\Ch\u1EC9nh s\u1EEDa 22-11\\Final\\CafeKaticas\\Control\\DashBoardControl.cs",
+              "RelativeToolTip": "CafeKaticas\\Control\\DashBoardControl.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:39:31.063Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
