@@ -6,11 +6,11 @@ Katicas là phần mềm quản lý quán cà phê được phát triển bằng
 
 ## Chức năng chính
 
-- Quản lý bán hàng: lập hóa đơn, thanh toán và theo dõi đơn hàng.
-- Quản lý thực đơn và kho: quản lý món, nhập - xuất - tồn nguyên liệu, đặt hàng nhà cung cấp.
-- Quản lý nhân sự: lưu thông tin nhân viên và phân quyền theo chức vụ.
-- Thống kê và báo cáo: theo dõi doanh thu, tình hình kinh doanh và sản phẩm bán chạy.
-- Quản trị dữ liệu: phiên bản SQL Server có hỗ trợ backup, restore và mã hóa dữ liệu.
+- **Quản lý bán hàng**: lập hóa đơn, thanh toán và theo dõi đơn hàng.
+- **Quản lý thực đơn và kho**: quản lý món, nhập - xuất - tồn nguyên liệu, đặt hàng nhà cung cấp.
+- **Quản lý nhân sự**: lưu thông tin nhân viên và phân quyền theo chức vụ.
+- **Thống kê và báo cáo**: theo dõi doanh thu, tình hình kinh doanh và sản phẩm bán chạy.
+- **Quản trị dữ liệu**: phiên bản SQL Server có hỗ trợ backup, restore và mã hóa dữ liệu.
 
 ## Cây dự án
 
