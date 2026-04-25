@@ -48,3 +48,23 @@ Katicas là phần mềm quản lý quán cà phê được phát triển bằng
 ## Tổng quan
 
 Mục tiêu của dự án là xây dựng một hệ thống quản lý quán cà phê dễ dùng, dễ mở rộng và phù hợp với nhu cầu vận hành thực tế. Tùy theo phiên bản, hệ thống có thể được triển khai với SQL Server hoặc MongoDB để phục vụ các hướng phát triển khác nhau.
+
+## Ảnh minh họa
+
+Một số ảnh chụp giao diện từ dự án để minh họa các chức năng chính:
+
+### 1) Đăng nhập hệ thống
+
+![Màn hình đăng nhập](Doc%20and%20ppt/result/Login.png)
+
+### 2) Quản lý bán hàng
+
+![Màn hình lập và xử lý đơn hàng](Doc%20and%20ppt/result/Order-Form.png)
+
+### 3) Quản lý thực đơn
+
+![Màn hình quản lý thực đơn](Doc%20and%20ppt/result/Menu.png)
+
+### 4) Dashboard theo dõi hoạt động
+
+![Màn hình dashboard](Doc%20and%20ppt/result/Dashboard.png)
